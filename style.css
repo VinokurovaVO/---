@@ -15,3 +15,7 @@
 	font-size: 50px;
 	text-transform: uppercase;
 }
+
+#button_wrapper{
+    margin-bottom: 10px;
+}
